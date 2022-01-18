@@ -1,0 +1,3 @@
+displayName = DynamicIcon
+author = Silver
+version = 0.1
