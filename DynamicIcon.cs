@@ -102,8 +102,6 @@ namespace DynamicIcon
                                 {
                                     //修改此UI部件的贴图
                                     (myUIModItem[j] as UIImage).SetImage(icon[iconFrame]);
-                                    //退出循环
-                                    break;
                                 }
                             }
                             //最后按逆序逐一SetValue
